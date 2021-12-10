@@ -1,9 +1,13 @@
 //Editing Done!!! 
+
 #include "StdAfx.h"
 #include <iostream>
 #include "List.h"
 
 using namespace std;
+
+cout <<"Listing"<<endl;
+cout <<"--------"<<endl;
 
 List::List(void)
 {size = 0;}
